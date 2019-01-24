@@ -1,8 +1,3 @@
 adding some content in the file
 
-
-
-changed
- 
-
-added one more line
+We are adding it from git hub
